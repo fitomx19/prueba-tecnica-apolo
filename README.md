@@ -17,11 +17,21 @@ npm i
 ```
 ## Uso
 
-```
-javascript
+```javascript
 //correr en desarrrollo
 npm run dev
 ```
+Primer endpoint
+```javascript
+    api/getToken/
+```
+Segunda endpoin
+
+
+```javascript
+  http://localhost:4000/api/getKeyWords
+```
+
 
 Michael Adolfo Huerta Ramirez - [Club Desarrollo Web](https://www.facebook.com/DWESCOM)
 

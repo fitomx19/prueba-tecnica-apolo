@@ -17,7 +17,8 @@ npm i
 
 ## Uso
 
-```javascript
+```
+javascript
 //correr en desarrrollo
 npm run dev
 

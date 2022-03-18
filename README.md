@@ -14,14 +14,14 @@ Despues Instalar las dependencias del proyecto entrar ala carpeta raiz del proye
 (Es en donde se encuentra el archivo package.json)
 ```bash
 npm i 
-
+```
 ## Uso
 
 ```
 javascript
 //correr en desarrrollo
 npm run dev
-
+```
 
 Michael Adolfo Huerta Ramirez - [Club Desarrollo Web](https://www.facebook.com/DWESCOM)
 

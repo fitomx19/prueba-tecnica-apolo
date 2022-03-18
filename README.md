@@ -1,6 +1,6 @@
 # Prueba Tecnica Apolo - Michael Adolfo Huerta Ramirez
 
-[Live server - probar la aplicacion](https://dreamy-lovelace-0a4136.netlify.app/)
+[Live server - probar la aplicacion](https://prueba-apolo-adolfo.herokuapp.com/api/getToken/)
 
 ## Instalacion
 
